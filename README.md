@@ -16,16 +16,22 @@ http://dbnav.lib.must.edu.mo/content/endnote-desktop
 ## Math plus + SymPy
 ### Sympy
 https://docs.sympy.org/latest/install.html
-shift + tab
 
 ## Math plus
-
 
 ## GeoGebra
 各位同学，这是GeoGebra的下载链接，https://www.geogebra.org/download，可以下载经典6版，也可以直接在线使用
 
 ## drow.io
 https://app.diagrams.net
+
+## Latex 相关
+
+### Overleaf
+https://www.overleaf.com/learn
+
+### 免费数学神器！再复杂的公式，只要有照片就能转成LaTeX
+https://mp.weixin.qq.com/s/UFfBoxQwsB_GUqTDRv3Asg
 
 ## Essay Writing
 ### 同义词
