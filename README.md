@@ -21,9 +21,12 @@ https://docs.sympy.org/latest/install.html
 https://mathpix.com
 
 ## GeoGebra
-下载地址：https://www.geogebra.org/download
-案例、资源：https://www.geogebra.org/materials
-论坛、帮助：https://help.geogebra.org/
+### 下载地址
+https://www.geogebra.org/download
+### 案例、资源
+https://www.geogebra.org/materials
+### 论坛、帮助
+https://help.geogebra.org/
 
 ## drow.io
 https://app.diagrams.net
