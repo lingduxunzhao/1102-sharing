@@ -17,7 +17,7 @@ http://dbnav.lib.must.edu.mo/content/endnote-desktop
 ### Sympy
 https://docs.sympy.org/latest/install.html
 
-## Math plus
+### Math plus
 https://mathpix.com
 
 ## GeoGebra
