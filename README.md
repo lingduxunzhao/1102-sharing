@@ -31,12 +31,12 @@ https://app.diagrams.net
 ## GitHub
 ### 常用搜索
 https://sspai.com/post/46061
-### 教程
+### Git教程
 https://www.liaoxuefeng.com/wiki/896043488029600
 
 ## Latex 相关
 
-### Overleaf
+### Overleaf（Latex在线编辑）
 https://www.overleaf.com/learn
 
 ### 免费数学神器！再复杂的公式，只要有照片就能转成LaTeX
@@ -55,3 +55,7 @@ https://context.reverso.net/
 https://quillbot.com/
 ### 句子改写
 https://www.wordtune.com/
+### 语法修改1
+grammarly（建议淘宝购买账户）：https://app.grammarly.com/
+### 语法修改2
+可以直接在Latex上改语法：https://www.writefull.com
