@@ -20,17 +20,19 @@ https://docs.sympy.org/latest/install.html
 ## Math plus
 https://mathpix.com
 
-## Latex 公式识别
-
-
 ## GeoGebra
-各位同学，这是GeoGebra的下载链接，https://www.geogebra.org/download，可以下载经典6版，也可以直接在线使用
+下载地址：https://www.geogebra.org/download
+案例、资源：https://www.geogebra.org/materials
+论坛、帮助：https://help.geogebra.org/
 
 ## drow.io
 https://app.diagrams.net
 
 ## GitHub
-常用搜索：https://sspai.com/post/46061
+### 常用搜索
+https://sspai.com/post/46061
+### 教程
+https://www.liaoxuefeng.com/wiki/896043488029600
 
 ## Latex 相关
 
@@ -43,10 +45,13 @@ https://mp.weixin.qq.com/s/UFfBoxQwsB_GUqTDRv3Asg
 ### Pandoc（不同格式文本转换）
 https://pandoc.org
 
+### 表格格式转换
+csv -> Latex: https://www.tablesgenerator.com
+
 ## Essay Writing
 ### 同义词
 https://context.reverso.net/
-
 ### 直接换句
 https://quillbot.com/
-
+### 句子改写
+https://www.wordtune.com/
