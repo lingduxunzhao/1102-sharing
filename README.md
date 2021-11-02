@@ -11,5 +11,25 @@
 --来自百度网盘超级会员V4的分享
 
 ## EndNote
+http://dbnav.lib.must.edu.mo/content/endnote-desktop
 
 ## Math plus + SymPy
+### Sympy
+https://docs.sympy.org/latest/install.html
+shift + tab
+
+## Math plus
+
+
+## GeoGebra
+各位同学，这是GeoGebra的下载链接，https://www.geogebra.org/download，可以下载经典6版，也可以直接在线使用
+
+## drow.io
+https://app.diagrams.net
+
+## Essay Writing
+### 同义词
+https://context.reverso.net/
+
+### 直接换句
+https://quillbot.com/
