@@ -36,6 +36,8 @@ https://app.diagrams.net
 https://sspai.com/post/46061
 ### Git教程
 https://www.liaoxuefeng.com/wiki/896043488029600
+### License choosing
+https://zhuanlan.zhihu.com/p/51331026
 
 ## Latex 相关
 
